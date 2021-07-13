@@ -1,0 +1,6 @@
+Z:\ws\regtool\RegTool\bin\Debug\RegTool.exe.config
+Z:\ws\regtool\RegTool\bin\Debug\RegTool.exe
+Z:\ws\regtool\RegTool\bin\Debug\RegTool.pdb
+Z:\ws\regtool\RegTool\obj\Debug\RegTool.csproj.CoreCompileInputs.cache
+Z:\ws\regtool\RegTool\obj\Debug\RegTool.exe
+Z:\ws\regtool\RegTool\obj\Debug\RegTool.pdb
